@@ -1,0 +1,9 @@
+[submodule "hive-ads-flureedb-schema"]
+	path = hive-ads-flureedb-schema
+	url = https://github.com/pibara/hive-ads-flureedb-schema.git
+[submodule "hive-ads-bot"]
+	path = hive-ads-bot
+	url = https://github.com/pibara/hive-ads-bot.git
+[submodule "hive-ads-bank"]
+	path = hive-ads-bank
+	url = https://github.com/pibara/hive-ads-bank.git
