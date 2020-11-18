@@ -7,3 +7,6 @@
 [submodule "hive-ads-bank"]
 	path = hive-ads-bank
 	url = https://github.com/pibara/hive-ads-bank.git
+[submodule "hive-sidechain-flureedb"]
+	path = hive-sidechain-flureedb
+	url = https://github.com/pibara/hive-sidechain-flureedb.git
